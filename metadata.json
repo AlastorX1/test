@@ -1,0 +1,7 @@
+{
+  "name": "VocalEdge - Sales Coaching Intelligence",
+  "description": "A high-performance sales coaching platform that analyzes sales calls for diarized transcription, sentiment trends, and actionable AI coaching insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
